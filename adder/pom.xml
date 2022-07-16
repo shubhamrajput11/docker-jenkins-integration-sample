@@ -8,19 +8,10 @@
   <artifactId>adder</artifactId>
   <version>1.0-SNAPSHOT</version>
 
- <build>
-    <finalname>docker-jenkins-integration</finalname>
- </build>
-</project>
-<!--
   <name>adder</name>
   <!-- FIXME change it to the project's website -->
   <url>http://www.example.com</url>
--->
 
-
-
-<!--
   <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     <maven.compiler.source>1.7</maven.compiler.source>
@@ -82,4 +73,3 @@
     </pluginManagement>
   </build>
 </project>
--->
